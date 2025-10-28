@@ -1,0 +1,5 @@
+{
+  "name": "AI Instagram Event Scraper",
+  "description": "An AI-powered tool to find official club Instagram pages for a given topic or university. It analyzes recent posts to extract event details and generates downloadable .ics calendar files for found events.",
+  "requestFramePermissions": []
+}
